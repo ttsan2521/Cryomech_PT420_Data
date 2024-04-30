@@ -1,0 +1,8 @@
+# PTC-420 Factory data from Cryomech.
+# CH serial number: CH60420W03-181024A
+# Compressor Serial number: CPA1114W2FNCE-181003A
+# PTC-1 P(W)	PTC-2 P(W)	PTC-1 T(K)	PTC-2 T(K)	High Pressure(psig)	Low Pressure(psig)
+0	0	26.3	2.16	319	110
+0	1.5	27.4	4.20	322	111
+#68.0	1.87	45.0	4.20	338	110
+#74.9	0	45.0	2.24	339	110
